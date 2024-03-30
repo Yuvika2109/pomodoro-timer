@@ -62,6 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+<img width="576" alt="Screenshot 2024-03-30 151431" src="https://github.com/Yuvika2109/pomodoro-timer/assets/154860677/927390e7-5ea8-4a96-b02b-41a4b4366634">
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
